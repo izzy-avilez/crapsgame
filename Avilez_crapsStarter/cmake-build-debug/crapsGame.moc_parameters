@@ -1,0 +1,13 @@
+-IC:/Users/marsb/.dotnet/Desktop/crapsStarter-MSWindows_Build/crapsStarter-MSWindows_Build/cmake-build-debug/crapsStarter_autogen/include
+-IC:/Qt/5.13.2/mingw73_64/include
+-IC:/Qt/5.13.2/mingw73_64/include/QtWidgets
+-IC:/Qt/5.13.2/mingw73_64/include/QtGui
+-IC:/Qt/5.13.2/mingw73_64/include/QtCore
+-IC:/Qt/5.13.2/mingw73_64/./mkspecs/win32-g++
+-IC:/Qt/5.13.2/mingw73_64/include/QtANGLE
+-IC:/Users/marsb/.dotnet/Desktop/crapsStarter-MSWindows_Build/crapsStarter-MSWindows_Build
+-IC:/Users/marsb/.dotnet/Desktop/crapsStarter-MSWindows_Build/crapsStarter-MSWindows_Build/cmake-build-debug
+-DWIN32
+-o
+C:/Users/marsb/.dotnet/Desktop/crapsStarter-MSWindows_Build/crapsStarter-MSWindows_Build/cmake-build-debug/crapsGame.moc
+C:/Users/marsb/.dotnet/Desktop/crapsStarter-MSWindows_Build/crapsStarter-MSWindows_Build/crapsGame.cpp
